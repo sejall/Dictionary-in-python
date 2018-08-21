@@ -1,0 +1,5 @@
+#dictionary in python 
+
+dict = {'name' : 'chandra' , 'id' : '200' , 'salary' : 10000}
+n = len(dict)
+print (' number of key value pairs = ' , n)
